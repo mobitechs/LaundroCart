@@ -28,6 +28,9 @@ class Constant {
 
   // static String imgUrl = "http://mobitechs.in/KisanFreashAPI/images/";
 
+
+
+  static String ownerName = "Pratik";
   static String isLogin = "false";
   static String userId = "userId";
   static String userType = "userType";
